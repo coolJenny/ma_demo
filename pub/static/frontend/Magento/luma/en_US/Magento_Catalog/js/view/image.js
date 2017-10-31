@@ -1,0 +1,1 @@
+/Volumes/Dev/php/Magento/sample_beta/vendor/magento/module-catalog/view/frontend/web/js/view/image.js
